@@ -5,7 +5,7 @@ getgenv().Options = {
     Undo = "Naruto"
 }
 
-local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/ItzCrazyManXzpt/animefighters/main/.github/workflows/blank.yml?token=GHSAT0AAAAAACGL2GKMU445R4SFHDBBM7SAZG4WFRA"))()
+local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/ItzCrazyManXzpt/animefighters/main/.github/workflows/blank.yml"))()
 
 local X = Material.Load({
     Title = "Costi - Comin e Gay AFS",
