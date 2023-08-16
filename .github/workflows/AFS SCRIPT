@@ -70,7 +70,7 @@ local AE = Y.Button({
 local AE2 = Y.Button({
     Text = "Copy Discord Invite",
     Callback = function()
-        setclipboard("Nu Inca Dusmane")
+        setclipboard("Nu Inca Dusmane.")
     end
 })
 
